@@ -1,7 +1,7 @@
 {
-    "botName": "SMH BOT",
+    "botName": "Zas BOT",
     "owner": [
-        "Your_Phonenumber@s.whatsapp.net"
+        "+6283807449268@s.whatsapp.net"
     ],
     "openWeather": "OpenWeather_APIkey",
     "igCookie": "Instagram_Cookie",
@@ -9,7 +9,7 @@
     "user_db": "users-db.json",
     "chat_store": "baileys-store.json",
     "timezone": "Asia/Jakarta",
-    "footer": "Kaguya PublicBot • FaizBastomi",
+    "footer": "Kaguya PublicBot • ZasXCar",
     "tier": {
         "drakath": 200,
         "nulgath": 500,
